@@ -1,0 +1,12 @@
+
+Tsquid:S1172"1Remove this unused method parameter "mouseEvent".(‹ª‡éüÿÿÿÿ8åùÓÅ-
+osquid:S2095S"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(†û§Ä8©¿‘›Ï-
+osquid:S3776?"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¬ ö8ÏÃ“›Ï-
+Isquid:S1481V"&Remove this unused "s" local variable.(â¤Úşÿÿÿÿ8¿ìË¡Ï-
+Xsquid:S1854V"5Remove this useless assignment to local variable "s".(â¤Úşÿÿÿÿ8¿ìË¡Ï-
+[
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(â§¢…üÿÿÿÿ8’¯š¡Ï-
+Hsquid:S00108a")Either remove or fill this block of code.(”ı¾8ÇÜ˜Ï-
+Hsquid:S00108G")Either remove or fill this block of code.(”ı¾8ŸÖ˜Ï-
+[
+squid:S106\"9Replace this use of System.out or System.err by a logger.(±èÏ¶ıÿÿÿÿ8İ–¬¤Ø-

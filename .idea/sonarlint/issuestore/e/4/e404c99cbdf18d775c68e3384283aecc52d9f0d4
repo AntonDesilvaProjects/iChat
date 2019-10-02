@@ -1,0 +1,10 @@
+
+Fsquid:S11489"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ó©ÚæÓ-
+vsquid:S2095¦"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(ÖöåÏıÿÿÿÿ8Ó©ÚæÓ-
+Qsquid:S1659d".Declare "replacementEmoji" on a separate line.(ºå¬€ûÿÿÿÿ8ó€ğÅ-
+Gsquid:S1148¬"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ê„È³Ó-
+Isquid:S1659d"&Declare "lastChar" on a separate line.(ºå¬€ûÿÿÿÿ8ó€ğÅ-
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ÂØî8ß¢àëÅ-
+@squid:S1643‰"Use a StringBuilder instead.(ŒÁïÿÿÿÿÿ8‰Ø‹ûÅ-
+usquid:S3776."RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(€š„Êùÿÿÿÿ8§ñú×-

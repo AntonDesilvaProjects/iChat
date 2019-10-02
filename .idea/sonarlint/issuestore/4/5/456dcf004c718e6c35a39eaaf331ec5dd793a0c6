@@ -1,0 +1,8 @@
+
+Fsquid:S11487"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ê¢”É-
+Dsquid:S1170"!Make this final field static too.(Õ÷šùÿÿÿÿ8Ê¢”É-
+Tsquid:S2696*"6Make the enclosing method "static" or remove this set.(šµ­â8Ê¢”É-
+>squid:S1170"!Make this final field static too.(ãœÁz8Ê¢”É-
+usquid:S00116"QRename this field "HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ÷šùÿÿÿÿ8Ê¢”É-
+Ysquid:S2696("6Make the enclosing method "static" or remove this set.(£õ…‡şÿÿÿÿ8Ê¢”É-
+nsquid:S00116"PRename this field "WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãœÁz8Ê¢”É-

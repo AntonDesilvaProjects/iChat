@@ -1,0 +1,17 @@
+.system-message {
+    background: cornsilk;
+    padding: 5px;
+    border-radius: 10px;
+    font-style: normal !important;
+}
+.bold {
+    font-weight: bold;
+}
+.file-download {
+    color: red;
+}
+.user-message {
+    padding: 5px;
+    border-radius: 10px;
+    display: block;
+}

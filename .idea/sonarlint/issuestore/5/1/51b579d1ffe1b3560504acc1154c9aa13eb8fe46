@@ -1,0 +1,14 @@
+
+usquid:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(Ù­ˆ–øÿÿÿÿ
+Fsquid:S1148t"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8øŽêæÊ-
+dsquid:S2142Z"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÞµÓ‰Ì-
+O
+squid:S106>"9Replace this use of System.out or System.err by a logger.(¼ßö»
+=squid:S1170"!Make this final field static too.(ÅîˆÁþÿÿÿÿ
+O
+squid:S1061"9Replace this use of System.out or System.err by a logger.(¼ßö»
+nsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(Óãøæùÿÿÿÿ8“—¬¤Ø-
+[
+squid:S106l"9Replace this use of System.out or System.err by a logger.(†Ìî²ûÿÿÿÿ8“—¬¤Ø-
+‰squid:S00116"eRename this field "DEFAULT_MESSAGE_QUEUE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øùþ„þÿÿÿÿ8“—¬¤Ø-
+bsquid:UselessImportCheck"7Remove this unused import 'com.ichat.common.Constants'.(é­µ8“—¬¤Ø-

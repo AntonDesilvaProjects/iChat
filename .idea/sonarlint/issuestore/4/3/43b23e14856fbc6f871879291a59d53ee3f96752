@@ -1,0 +1,11 @@
+
+esquid:UselessImportCheck";Remove this unused import 'javafx.scene.media.MediaPlayer'.(‡µºU8Îà”ĞÕ-
+Qsquid:S1444".Make this "public static SERVICES" field final(ô µúÿÿÿÿ8âÙ×ÈÅ-
+jsquid:UselessImportCheck
+"?Remove this unused import 'javafx.beans.value.ObservableValue'.(´œ«Å8º¶’ÓÕ-
+"squid:ClassVariableVisibilityCheck"TMake SERVICES a static final constant or non-public and provide accessors if needed.(ô µúÿÿÿÿ8âÙ×ÈÅ-
+isquid:UselessImportCheck	">Remove this unused import 'javafx.beans.value.ChangeListener'.(¸÷Í8º¶’ÓÕ-
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ğ¥Å8Îà”ĞÕ-
+vsquid:S3008"SRename this field "SERVICES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô µúÿÿÿÿ8âÙ×ÈÅ-
+`squid:UselessImportCheck"5Remove this unused import 'javafx.scene.media.Media'.(¿àÆ¾8Îà”ĞÕ-
+=squid:S1640-"Convert this Map to an EnumMap.(Çüúõ8¯¨àÈÅ-

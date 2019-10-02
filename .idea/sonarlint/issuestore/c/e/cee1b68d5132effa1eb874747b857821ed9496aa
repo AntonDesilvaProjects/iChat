@@ -1,0 +1,8 @@
+
+[
+squid:S106L"9Replace this use of System.out or System.err by a logger.(êÆ„’ûÿÿÿÿ8Ù‡ë¥Æ-
+>squid:S1170 "!Make this final field static too.(Ø“ò8Ÿ½Â¥Æ-
+Dsquid:S1170"!Make this final field static too.(Êø¸žúÿÿÿÿ8Ÿ½Â¥Æ-
+Fsquid:S1148X"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Ÿ½Â¥Æ-
+usquid:S00116"QRename this field "ANCHOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Êø¸žúÿÿÿÿ8Ÿ½Â¥Æ-
+tsquid:S00116 "VRename this field "CLICK_EVENT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø“ò8Ÿ½Â¥Æ-
