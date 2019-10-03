@@ -1,5 +1,5 @@
 # iChat
-Simple chat application built purely with JavaFX
+Simple chat application built purely in JavaFX
 . 
 
 ![alt text](https://github.com/AntonDesilvaProjects/iChat/blob/master/intro.JPG?raw=true)
